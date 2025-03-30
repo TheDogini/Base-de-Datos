@@ -1,4 +1,4 @@
--- Ejercicios de consultas usando funciones de agregación
+-- Ejercicios de consultas usando funciones de agregación y having en la base de datos 'sakila'
 USE sakila;
 
 -- Calcule el monto de las rentas de cada empleado con durante el mes de mayo 
